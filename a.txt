@@ -1,0 +1,42 @@
+Muestra un menú con la opción de cerrar menú, añadir nuevo cliente, Ordenar por edad los clientes, ver lista clientes;
+
+
+El Dto debe contener los campos con valores predeterminados:
+
+-id (long) 
+
+-Nombre (string)
+
+-Apellidos (string)
+
+-Edad (int)
+
+(Deben tener getter, setter y toString) (Los Apellidos y Nombre el deben estar concatenados)
+
+
+
+En la opción de ordenar clientes debe de tener un método burbuja que ordenará por edad a los clientes.
+
+Y la opcion de ver lista clientes debe de ser con un Foreach.
+
+
+Mostrar Menú = 2,5P  
+Dto con campos correctamente puestos = 1,5P
+Añadir nuevo cliente = 2P
+Ordena Clientes con método burbuja y mostrar al final = 2P
+Que los apellidos y el nombre esten concatenados = 1P
+Cometarlo correctamente = 1P
+
+
+Puntuación:
+
+
+Mostrar Menú = 2,5P  // 2,5P conseguidos
+Dto con campos correctamente puestos = 1,5P // 1,0P No tienen valores predeterminados.
+Añadir nuevo cliente = 2P // 2P
+Ordena Clientes con método burbuja y mostrar al final = 2P // 1P Ordenaría los clientes y los mostraría (creo) sin el error de la concatenación
+Que los apellidos y el nombre esten concatenados = 1P // 0P Da error al lanzarlo por la concatenación
+Cometarlo correctamente = 1P // 0P No comentado
+
+6,5/10 (En mi opinión)
+ 

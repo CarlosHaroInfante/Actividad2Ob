@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\bin\Debug\net6.0\Ejercicio2.obligatorio.exe
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\bin\Debug\net6.0\Ejercicio2.obligatorio.deps.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\bin\Debug\net6.0\Ejercicio2.obligatorio.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\bin\Debug\net6.0\Ejercicio2.obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\bin\Debug\net6.0\Ejercicio2.obligatorio.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\refint\Ejercicio2.obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\Ejercicio2.obligatorio.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2.obligatorio-master\Ejercicio2.obligatorio\obj\Debug\net6.0\ref\Ejercicio2.obligatorio.dll

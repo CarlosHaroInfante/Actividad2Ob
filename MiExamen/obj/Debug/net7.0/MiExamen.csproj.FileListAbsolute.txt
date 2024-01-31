@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\MiExamen\bin\Debug\net7.0\MiExamen.exe
+C:\Users\Carlos\Desktop\Programación\MiExamen\bin\Debug\net7.0\MiExamen.deps.json
+C:\Users\Carlos\Desktop\Programación\MiExamen\bin\Debug\net7.0\MiExamen.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\MiExamen\bin\Debug\net7.0\MiExamen.dll
+C:\Users\Carlos\Desktop\Programación\MiExamen\bin\Debug\net7.0\MiExamen.pdb
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.dll
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\refint\MiExamen.dll
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.pdb
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\MiExamen.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\MiExamen\obj\Debug\net7.0\ref\MiExamen.dll
